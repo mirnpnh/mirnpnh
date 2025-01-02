@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-========================== 
 Full Stack software engineer
 ---------------------------- 
 ![Profile Views](https://komarev.com/ghpvc/?username=mirnpnh&color=blue)
